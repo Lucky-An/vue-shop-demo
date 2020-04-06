@@ -1,24 +1,35 @@
 # gshop-client_blank
 
 ## Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行打包文件
+
 ```
-npm run serve
+npm run dist
+```
+
+### 在本地环境运行
+
+```
+npm run server
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
 ### Lints and fixes files
+
 ```
 npm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
